@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hATSTYRfAYXwYFzNaKUVPOJh4RnB1JD/XrsFc44+xCLEB0lllRxQYFxVne8ltQKA2Y1dpxZPPdBsP4+0KChKxg==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\ProjetosTeste\\RabbitMQProducer\\RabbitMQProducer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fsferreira\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\fsferreira\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\fsferreira\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
