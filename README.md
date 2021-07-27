@@ -1,8 +1,8 @@
 # RabbitMQProducer
 
-This is a project created for learning purpose.
+This project was created for learning purpose.
 
-To run this application, you must to follow the follow steps:
+To run this application, you must to follow the bellow steps:
 
 1 - Instal the Earlang (last version) that can be found on this link: https://www.erlang.org/downloads;
 
